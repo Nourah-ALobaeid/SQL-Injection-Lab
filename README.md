@@ -96,11 +96,11 @@ Everything after -- is treated as a comment, so the password condition is ignore
 
 📚 Skills Demonstrated
 
-· Web Application Security Fundamentals
-· SQL Injection exploitation (authentication bypass, boolean, time-based)
-· Understanding of secure coding practices (parameterized queries)
-· Basic Penetration Testing Methodology
-· Linux Command Line Usage
+- Web Application Security Fundamentals
+- SQL Injection exploitation (authentication bypass, boolean, time-based)
+- Understanding of secure coding practices (parameterized queries)
+- Basic Penetration Testing Methodology
+- Linux Command Line Usage
 
 ---
 
